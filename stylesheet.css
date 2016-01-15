@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(white, rgba(119,189,217,.8)); 
+    
+    /*background-size:cover; */
+}
+
+html{
+    height:100%;
+}
