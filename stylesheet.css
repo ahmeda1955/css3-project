@@ -25,6 +25,21 @@ h1 {
     background: #3071A9
 }
 
+div {
+    animation-name: movie;
+    animation-duration: 6s;
+    
+}
+
+
+
+@keyframes movie {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+
+
 
 
 
