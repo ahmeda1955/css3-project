@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    font-family: 'Poiret One', cursive;
+    font-family: 'Poiret One', cursive; 
 }
 
 .button1 {
@@ -24,7 +24,7 @@ h1 {
 }
 
 .button1:hover {
-    background: #3071A9
+    background: #3071A9   /*changes button background to different shade of blue when mouse hovers over but*/
 }
 
 div {
