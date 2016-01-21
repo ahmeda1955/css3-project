@@ -1,8 +1,6 @@
-
-
 body {
     background: linear-gradient(white, rgba(119, 189, 217, 0.7));
-    /*background-size:cover; */
+    background-size: 91.4%;
 }
 
 h1 {
@@ -21,7 +19,7 @@ h1 {
     transition: all 0.3s ease 0s;
     position: absolute;
     left:30px;
-     top: 775px;
+     top: 700px;
 }
 
 .button1:hover {
@@ -58,7 +56,7 @@ div {
     transition: all 0.3s ease 0s;
     position: absolute;
     left: 800px;
-     top: 775px;
+    top: 700px;
 }
 .button2:hover {
     background: #3071A9
@@ -76,7 +74,7 @@ div {
     transition: all 0.3s ease 0s;
     position: absolute;
     left: 800px;
-     top: 775px;
+     top: 700px;
 }
 .button2:hover {
     background: #3071A9
@@ -94,10 +92,8 @@ div {
     transition: all 0.3s ease 0s;
     position: absolute;
     left: 1700px;
-    top: 775px;
+    top: 700px;
 }
 .button6:hover {
     background: #3071A9
 }
-
-
