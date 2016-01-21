@@ -17,13 +17,13 @@ h1 {
     font-weight: bold;
     margin: 10px;
     transition: all 0.3s ease 0s;
-    position: absolute;
-    left:30px;
-     top: 700px;
+    position:relative;
+    left:625px;
+  
 }
 
 .button1:hover {
-    background: #3071A9   /*changes button background to different shade of blue when mouse hovers over but*/
+    background: #3071A9  /*changes button background to different shade of blue when mouse hovers over */
 }
 
 div {
@@ -44,56 +44,3 @@ div {
     transform:scaleX(1.5);
 }
 
-.button2 {
-    padding: 10px;
-    font-size: 20px;
-    background: linear-gradient(white, rgba(119, 189, 217, 0.7));
-    color: white;
-    border-radius: 20px;
-    cursor: pointer;
-    font-weight: bold;
-    margin: 10px;
-    transition: all 0.3s ease 0s;
-    position: absolute;
-    left: 800px;
-    top: 700px;
-}
-.button2:hover {
-    background: #3071A9
-}
-
-.button2 {
-    padding: 10px;
-    font-size: 20px;
-    background: linear-gradient(white, rgba(119, 189, 217, 0.7));
-    color: white;
-    border-radius: 20px;
-    cursor: pointer;
-    font-weight: bold;
-    margin: 10px;
-    transition: all 0.3s ease 0s;
-    position: absolute;
-    left: 800px;
-     top: 700px;
-}
-.button2:hover {
-    background: #3071A9
-}
-
-.button6 {
-    padding: 10px;
-    font-size: 20px;
-    background: linear-gradient(white, rgba(119, 189, 217, 0.7));
-    color: white;
-    border-radius: 20px;
-    cursor: pointer;
-    font-weight: bold;
-    margin: 10px;
-    transition: all 0.3s ease 0s;
-    position: absolute;
-    left: 1700px;
-    top: 700px;
-}
-.button6:hover {
-    background: #3071A9
-}
